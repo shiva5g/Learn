@@ -1,0 +1,15 @@
+.basic-heading {
+  /* Class */
+  text-decoration: line-through;
+}
+
+#head-1 {
+  /* id */
+  color: yellow;
+}
+td {
+  background-color: green;
+}
+tr {
+  background-color: blue;
+}
